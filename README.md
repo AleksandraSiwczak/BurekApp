@@ -9,7 +9,7 @@
 - [Adopted Animals List](#adopted-animals-list)
 - [Calendar](#calendar)
 
-ADRES STRONY
+
 To log into app and calendar type:
 
 - login: burekApp@gmail.com
